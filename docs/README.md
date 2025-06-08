@@ -1,8 +1,19 @@
 # Vertical-Slice-Architecture
 
 [![.NET Build & Test](https://github.com/Amitpnk/Vertical-Slice-Architecture/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Amitpnk/Vertical-Slice-Architecture/actions/workflows/dotnet.yml)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Amitpnk/Vertical-Slice-Architecture/blob/main/LICENSE)
 
 A clean, modular **.NET 9** template using **Vertical Slice Architecture** — ideal for building scalable, maintainable APIs with **CQRS**, **Mediator Design Pattern**, **FluentValidation**, and **EF Core/Dapper**.
+
+## Give a Star! :star:
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
+## Support This Project
+
+If you have found this project helpful, either as a library that you use or as a learning tool, please consider buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/codewithamit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important" ></a>
+
 
 ## ✅ Features
 
