@@ -14,6 +14,14 @@ If you have found this project helpful, either as a library that you use or as a
 
 <a href="https://www.buymeacoffee.com/codewithamit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important" ></a>
 
+## What is Vertical Slice Architecture?
+
+Vertical Slice Architecture organizes code by features rather than technical layers. Each “slice” encapsulates all aspects of a specific feature, including the UI, business logic, and data access. This contrasts with traditional architectures that segregate applications into horizontal layers like Controllers, Services, and Repositories.
+
+![VA](VSA.drawio.png)
+
+Figure: Representation of Vertical Slice Architecture emphasizing feature-centric organization.
+The image above illustrates the concept of Vertical Slice Architecture, where each feature, represented as a vertical slice, integrates all necessary components across the UI, Application, Domain, and Infrastructure layers. This ensures each feature is self-contained and simplifies scaling, testing, and maintaining code
 
 ## ✅ Features
 
